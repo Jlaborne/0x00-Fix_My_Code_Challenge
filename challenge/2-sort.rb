@@ -15,5 +15,3 @@ end
 
 # sort array and print
 puts result.sort
-
-puts result
